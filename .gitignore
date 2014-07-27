@@ -4,3 +4,11 @@ out
 /.settings
 /.classpath
 /.project
+
+FlightPlot.iws
+
+flightplot.properties
+
+flightplot.xml
+
+module_flightplot.xml
